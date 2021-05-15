@@ -15,7 +15,7 @@
                 <h4 class="txtNavOption textNavOptionUnfocused">Servicios</h4>
             </div>
             <div class="d-flex align-items-center divNavOption px-3">
-                <h4 class="txtNavOption textNavOptionUnfocused">Galeria</h4>
+                <h4 class="txtNavOption textNavOptionUnfocused"><a href="index.php?action=about">Galeria</a></h4>
             </div>
             <div class="d-flex align-items-center divNavOption px-3">
                 <h4 class="txtNavOption textNavOptionUnfocused">Nosotros</a></h4>

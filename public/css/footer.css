@@ -1,6 +1,19 @@
-footer{
+footer {
     background-color: #21252B;
 }
-h4{
+
+.textHeader2 {
     color: white;
+    font-size: 25pt;
+    font-family: 'Kalam', cursive;
+}
+
+.txtHeader3 {
+    color: white;
+    font-size: 13pt;
+}
+
+.txtHeader4 {
+    color: white;
+    font-size: 13pt;
 }

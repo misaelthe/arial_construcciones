@@ -1,6 +1,3 @@
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@300&family=Quicksand:wght@300&display=swap" rel="stylesheet">
 <link href="./css/home.css" rel="stylesheet">
 <main>
   <div id="carouselExampleCaptions" class="carousel slide col-md-12" data-bs-ride="carousel">
@@ -44,7 +41,7 @@
   <div id="divDescription" class="container-fluid py-3">
     <div class="container-fluid">
       <div class="container-fluid py-3">
-        <h4 class="txtHomeHeader text-center">Quienes Somos</h4>
+        <h4 class="txtHeader1-fill text-center">Quienes Somos</h4>
         <hr class="hrHomeHeader mx-auto" />
       </div>
       <div class="container-fluid col-md-8 offset-md-2">
@@ -58,15 +55,15 @@
     </div>
     <div class="col-md-12 position-absolute top-0 start-0" id="divDescriptionServices">
 
-      <h3 class="col-md-12 txtHeader2 text-center">Servicios</h3>
+      <h3 class="col-md-12 txtHeader1 text-center">Servicios</h3>
 
       <div class="d-flex justify-content-around col-md-12">
         <div class="divCardServices">
           <div class="card h-100">
             <img src="./img/img-carousel-1.png" class="card-img-top">
             <div class="card-body">
-              <h5 class="card-title">Consultoria</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h5 class="card-title txtHeader2">Consultoria</h5>
+              <p class="card-text txtHeader4">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
           </div>
         </div>
@@ -74,8 +71,8 @@
           <div class="card h-100">
             <img src="./img/img-carousel-2.png" class="card-img-top">
             <div class="card-body">
-              <h5 class="card-title">Telecomunicaciones</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h5 class="card-title txtHeader2">Telecomunicaciones</h5>
+              <p class="card-text txtHeader4">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
           </div>
         </div>
@@ -83,8 +80,8 @@
           <div class="card h-100">
             <img src="./img/img-carousel-3.png" class="card-img-top">
             <div class="card-body">
-              <h5 class="card-title">Obras Electromecanicas</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h5 class="card-title txtHeader2">Obras Electromecanicas</h5>
+              <p class="card-text txtHeader4">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
           </div>
         </div>
@@ -109,7 +106,7 @@
         <!-- BEGINS DESCRIPTION OF CONTACT -->
         <div class="col-md-7 container" id="divDescriptionContact">
           <div class="row py-2">
-            <h3 class="txtHeader2">Contacto</h3>
+            <h3 class="txtHeader1">Contacto</h3>
           </div>
           <!-- FIRST ROW OF DESCRIPTION(CALL AND EMAIL) -->
           <div class="row py-2">
@@ -165,20 +162,20 @@
       </div>
     </div>
   </div>
-  <!-- BEGINS SERVICES SECTION -->
+  <!-- BEGINS FEATURES -->
   <div id="divFeatures" class="container-fluid py-3">
     <div class="container-fluid py-3">
-      <h4 class="txtHomeHeader text-center">Nuestros Servicios</h4>
+      <h3 class="txtHeader1-fill text-center">Nuestros Compromisos</h3>
       <hr class="hrHomeHeader mx-auto" />
     </div>
     <div class="container-fluid">
       <div class="row justify-content-around">
         <div class="col-md-2 py-2">
           <div class="divImgServices d-flex justify-content-center">
-            <img src="./img/icons/building.svg" class="img-fluid iconService" />
+            <img src="./img/icons/shield-fill.svg" class="img-fluid iconService" />
           </div>
           <div class="my-3">
-            <h4 class="text-center txtServicesHeader">Construccion</h4>
+            <h4 class="text-center txtServicesHeader">Comprometidos con tu Seguridad</h4>
             <p class="text-center">Lorem, ipsum dolor sit amet
               consectetur adipisicing elit.
               quis harum quae, rerum incidunt vero
@@ -187,10 +184,10 @@
         </div>
         <div class="col-md-2 py-2">
           <div class="divImgServices d-flex justify-content-center">
-            <img src="./img/icons/map.svg" class="img-fluid" />
+            <img src="./img/icons/people-fill.svg" class="img-fluid" />
           </div>
           <div class="my-3">
-            <h4 class="text-center txtServicesHeader">Ingenieria</h4>
+            <h4 class="text-center txtServicesHeader">Personal Capacitado</h4>
             <p class="text-center">Lorem, ipsum dolor sit amet
               consectetur adipisicing elit.
               quis harum quae, rerum incidunt vero
@@ -199,10 +196,10 @@
         </div>
         <div class="col-md-2 py-2">
           <div class="divImgServices d-flex justify-content-center">
-            <img src="./img/icons/person.svg" class="img-fluid" />
+            <img src="./img/icons/cloud-lightning-rain.svg" class="img-fluid" />
           </div>
           <div class="my-3">
-            <h4 class="text-center txtServicesHeader">Mejor Personal</h4>
+            <h4 class="text-center txtServicesHeader">Bajo Condiciones Extremas</h4>
             <p class="text-center">Lorem, ipsum dolor sit amet
               consectetur adipisicing elit.
               quis harum quae, rerum incidunt vero
@@ -213,10 +210,10 @@
       <div class="row justify-content-around">
         <div class="col-md-2 py-2">
           <div class="divImgServices d-flex justify-content-center">
-            <img src="./img/icons/clipboard-data.svg" class="img-fluid " />
+            <img src="./img/icons/currency-dollar.svg" class="img-fluid " />
           </div>
           <div class="my-3">
-            <h4 class="text-center txtServicesHeader">Presupuesto</h4>
+            <h4 class="text-center txtServicesHeader">Presupuestos Asequibles</h4>
             <p class="text-center">Lorem, ipsum dolor sit amet
               consectetur adipisicing elit.
               quis harum quae, rerum incidunt vero
@@ -225,10 +222,10 @@
         </div>
         <div class="col-md-2 py-2">
           <div class="divImgServices d-flex justify-content-center">
-            <img src="./img/icons/cloud-lightning-rain.svg" class="img-fluid " />
+            <img src="./img/icons/star-fill.svg" class="img-fluid " />
           </div>
           <div class="my-3">
-            <h4 class="text-center txtServicesHeader">Bajos Clima Dificles
+            <h4 class="text-center txtServicesHeader">Comprometidos Contigo
             </h4>
             <p class="text-center">Lorem, ipsum dolor sit amet
               consectetur adipisicing elit.
@@ -242,7 +239,7 @@
   <!-- BEGINS CLIENTS SECTION -->
   <div id="divClients" class="container py-3">
     <div class="container-fluid">
-      <h4 class="txtHomeHeader text-center">Nuestros Clientes</h4>
+      <h4 class="txtHeader1-fill text-center">Nuestros Clientes</h4>
       <hr class="hrHomeHeader mx-auto" />
     </div>
     <div class="container-fluid">
