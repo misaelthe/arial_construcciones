@@ -1,3 +1,65 @@
-.imgBanner{
+.imgBanner {
     height: 500px;
+}
+
+.divImgServices {
+    height: 50px;
+}
+
+.txtHomeHeader {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23pt;
+    color: orange;
+}
+
+.txtServicesHeader {
+    color: black;
+    font-size: 18pt;
+}
+
+.hrHomeHeader {
+    width: 30%;
+    border-top: 3px solid orange;
+}
+
+#divClients {
+    /* background-color: #E2E1E1; */
+}
+
+.divCardServices {
+    width: 25%;
+}
+
+#divMoreServices>div>h4 {
+    color: black;
+}
+
+#divDescriptionContact {
+    background-color: orange;
+}
+
+#divBannerServices {
+    background-image: url(../img/banner-services.jpg);
+    filter: blur(6px);
+    height: 500px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#divDescriptionServices {
+    height: 500px;
+    background-color: rgba(265, 165, 0, 0.3)
+}
+
+.txtHeader2 {
+    color: white;
+    font-size: 40pt;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.txtHeader3 {
+    color: white;
+    font-size: 25pt;
+    font-family: 'Kalam', cursive;
 }

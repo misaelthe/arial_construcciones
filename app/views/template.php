@@ -9,11 +9,12 @@
 <body>
     <script src="./js/bootstrap.min.js"></script>
     <script src="./js/jquery.js"></script>
-    <?php include "../app/views/includes/header.php"; ?>
+    <?php include "../app/views/includes/headerprueba.php"; ?>
     <?php 
       $mvc = new MvcController();
       $mvc -> getPage();
     ?>
+    <?php include "../app/views/includes/footer.php"; ?>
 </body>
 
 </html>

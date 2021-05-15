@@ -2,22 +2,25 @@
     position: absolute;
     left: 3%;
     width: 10%;
-    height: 120px;
-    background-color: yellow;
+    height: 100px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
     border-radius: 10%;
+    background-color: #F6F6F6;
 }
     #logoHeader{
-        width: 50%;
+        width: 100%;
     }
-    #divLogoHeader>h4{
-        font-size: 17pt;
+    #divLogoHeader>div>h4{
+        font-size: 21pt;
+        font-family:'Courier New', Courier, monospace;
+        color: black;
+         font-weight: bold; 
     }
 #headerTop{
-    background-color: black;
+    background-color: orange;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
