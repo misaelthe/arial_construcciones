@@ -1,11 +1,11 @@
 <?php 
 class Pages{	
 	public static function getLink($action){
-		if($action == "index"){
+		if($action == "index" || $action == "home"){
 			$module =  "../app/views/pages/home.php";		
 		}
-        if($action == "home"){
-			$module =  "../app/views/pages/home.php";		
+		else if($action == "services"){
+			$module =  "../app/views/pages/services.php";		
 		}
 		else if($action == "about"){
 			$module =  "../app/views/pages/about.php";		
