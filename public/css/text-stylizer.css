@@ -1,0 +1,51 @@
+/* MAIN HEADER,IT INTRODUCES WHOLE SECTIONS */
+
+.txtHeader1 {
+    color: white;
+    font-size: 40pt;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.txtHeader1-orange {
+    color: orange;
+    font-size: 40pt;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+/* ABOUT(MISSION AND VISION) */
+
+.txtHeader5 {
+    font-size: 45pt;
+    font-family: 'Varela Round', sans-serif;
+    color: black;
+}
+
+
+/* SMALL HEADERS,FASHIONED (SERVICES IN HOME) */
+
+.txtHeader2-black {
+    font-size: 15pt;
+    font-family: 'Roboto Slab', serif;
+    color: black;
+}
+
+
+/* FUNNY (IN CONTACT AND FOOTER) */
+
+.txtHeader3 {
+    color: white;
+    font-size: 25pt;
+    font-family: 'Kalam', cursive;
+}
+
+.txtHeader4 {
+    color: white;
+    font-size: 14pt;
+}
+
+.paragraph1-black {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 800;
+    color: black;
+}

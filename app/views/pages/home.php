@@ -1,5 +1,4 @@
 <link href="./css/home.css" rel="stylesheet">
-<main>
   <div id="carouselExampleCaptions" class="carousel slide col-md-12" data-bs-ride="carousel">
     <div class="carousel-indicators">
       <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -41,11 +40,11 @@
   <div id="divDescription" class="container-fluid py-3">
     <div class="container-fluid">
       <div class="container-fluid py-3">
-        <h4 class="txtHeader1-fill text-center">Quienes Somos</h4>
+        <h4 class="txtHeader1-orange text-center">Quienes Somos</h4>
         <hr class="hrHomeHeader mx-auto" />
       </div>
       <div class="container-fluid col-md-8 offset-md-2">
-        <p class="text-center">Somos una empresa constructora, especializada en el diseño y ejecucion de proyectos de construccion, firmemente comprometida con el desarrollo de nuestro Pais. Nuestro personal esta altamente capacitado por haber participado en diversas obras en todo el ambito nacional, por lo cual garantizamos una obra de calidad para nuestros clientes. </p>
+        <p class="text-center paragraph1-black">Somos una empresa constructora, especializada en el diseño y ejecucion de proyectos de construccion, firmemente comprometida con el desarrollo de nuestro Pais. Nuestro personal esta altamente capacitado por haber participado en diversas obras en todo el ambito nacional, por lo cual garantizamos una obra de calidad para nuestros clientes. </p>
       </div>
     </div>
   </div>
@@ -62,8 +61,8 @@
           <div class="card h-100">
             <img src="./img/img-carousel-1.png" class="card-img-top">
             <div class="card-body">
-              <h5 class="card-title txtHeader2">Consultoria</h5>
-              <p class="card-text txtHeader4">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h5 class="card-title txtHeader2-black">Consultoria</h5>
+              <p class="card-text paragraph1-black">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
           </div>
         </div>
@@ -71,8 +70,8 @@
           <div class="card h-100">
             <img src="./img/img-carousel-2.png" class="card-img-top">
             <div class="card-body">
-              <h5 class="card-title txtHeader2">Telecomunicaciones</h5>
-              <p class="card-text txtHeader4">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h5 class="card-title txtHeader2-black">Telecomunicaciones</h5>
+              <p class="card-text paragraph1-black">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
           </div>
         </div>
@@ -80,8 +79,8 @@
           <div class="card h-100">
             <img src="./img/img-carousel-3.png" class="card-img-top">
             <div class="card-body">
-              <h5 class="card-title txtHeader2">Obras Electromecanicas</h5>
-              <p class="card-text txtHeader4">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h5 class="card-title txtHeader2-black">Obras Electromecanicas</h5>
+              <p class="card-text paragraph1-black">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
           </div>
         </div>
@@ -165,7 +164,7 @@
   <!-- BEGINS FEATURES -->
   <div id="divFeatures" class="container-fluid py-3">
     <div class="container-fluid py-3">
-      <h3 class="txtHeader1-fill text-center">Nuestros Compromisos</h3>
+      <h3 class="txtHeader1-orange text-center">Nuestros Compromisos</h3>
       <hr class="hrHomeHeader mx-auto" />
     </div>
     <div class="container-fluid">
@@ -239,7 +238,7 @@
   <!-- BEGINS CLIENTS SECTION -->
   <div id="divClients" class="container py-3">
     <div class="container-fluid">
-      <h4 class="txtHeader1-fill text-center">Nuestros Clientes</h4>
+      <h4 class="txtHeader1-orange text-center">Nuestros Clientes</h4>
       <hr class="hrHomeHeader mx-auto" />
     </div>
     <div class="container-fluid">
@@ -255,4 +254,3 @@
       </div>
     </div>
   </div>
-</main>

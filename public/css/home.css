@@ -11,17 +11,8 @@
     height: 50px;
 }
 
-.txtServicesHeader {
-    color: black;
-    font-size: 18pt;
-}
-
 .divCardServices {
     width: 25%;
-}
-
-#divMoreServices>div>h4 {
-    color: black;
 }
 
 #divDescriptionContact {
@@ -40,34 +31,4 @@
 #divDescriptionServices {
     height: 500px;
     background-color: rgba(265, 165, 0, 0.3)
-}
-
-
-/* TEXT STYLES */
-
-.txtHeader1 {
-    color: white;
-    font-size: 40pt;
-    font-family: 'Quicksand', sans-serif;
-}
-
-.txtHeader1-fill {
-    color: orange;
-    font-size: 40pt;
-    font-family: 'Quicksand', sans-serif;
-}
-
-.txtHeader2 {
-    font-family: 'Roboto Slab', serif;
-}
-
-.txtHeader3 {
-    color: white;
-    font-size: 25pt;
-    font-family: 'Kalam', cursive;
-}
-
-.txtHeader4 {
-    font-family: 'Noto Sans JP', sans-serif;
-    font-weight: 800;
 }

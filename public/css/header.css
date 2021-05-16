@@ -1,90 +1,54 @@
-#divLogoHeader{
-    position: absolute;
-    left: 3%;
-    width: 10%;
-    height: 100px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    border-radius: 10%;
+#divLogoHeader {
     background-color: #F6F6F6;
 }
-    #logoHeader{
-        width: 100%;
-    }
-    #divLogoHeader>div>h4{
-        font-size: 21pt;
-        font-family:'Courier New', Courier, monospace;
-        color: black;
-         font-weight: bold; 
-    }
-#headerTop{
+
+#logoHeader {
+    width: 100%;
+}
+
+#divLogoHeader>div>h4 {
+    font-size: 21pt;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-weight: bold;
+}
+
+.divNavOption {
+    height: 100px;
+    ;
+}
+
+.divNavOptionUnfocused {
+    background-color: white;
+}
+
+.divNavOptionFocused {
     background-color: orange;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+}
+
+.textNavOptionUnfocused {
+    color: orange;
+}
+
+.textNavOptionFocused {
+    color: white;
+}
+
+.txtNavOption {
+    font-size: 17pt;
+    font-weight: bold;
+}
+
+#divContacto {
     height: 50px;
-    
 }
-#headerContact{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+
+#divContacto>button {
+    background-color: orange;
+    color: white;
 }
-    #headerContact>div{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-    }
-        .headerTopElements{
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin: auto 5px auto;
-        }
-        .headerTopText{
-            color: white;
-        }
-#headerSocial{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
+
+a {
+    text-decoration: none;
+    color: orange;
 }
-    .iconSocial{
-        display: inline-block;
-    }
-#headerBottom{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    height: 70px;
-}
-    #barraNavegacion{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-    }
-        .divNavOption{
-            width: 20%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        .divNavOptionUnfocused{
-            background-color: white;
-        }
-        .divNavOptionFocused{
-            background-color: orange;
-        }
-        .textNavOptionUnfocused{
-            color: orange;
-        }
-        .textNavOptionFocused{
-            color: white;
-        }
-            .txtNavOption{
-                font-size: 17pt;
-                font-weight: bold;
-            }

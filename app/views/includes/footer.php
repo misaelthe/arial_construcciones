@@ -2,7 +2,7 @@
 <footer class="container-fluid py-3">
     <div class="row">
         <div class="col-md-3 offset-md-1">
-            <h4 class="textHeader2">Contacto</h4>
+            <h4 class="txtHeader3">Contacto</h4>
             <div>
                 <div class="col-md-12 row my-2">
                     <div class="col-md-2">
@@ -27,17 +27,17 @@
             </div>
         </div>
         <div class="col-md-6">
-            <h4 class="textHeader2">Servicios</h4>
+            <h4 class="txtHeader3">Servicios</h4>
             <div>
                 <ul>
-                    <li class="txtHeader3">Planificación de proyectos</li>
-                    <li class="txtHeader3">Diseño Industrial, Arquitectónico y Especialidades</li>
-                    <li class="txtHeader3">Construcción de obras civiles , Estructuras metálicas, Remodelación y Ampliciones.</li>
-                    <li class="txtHeader3">Servicios Generales. Mantnimiento de equipos industriales, reparación de muros, limpieza.</li>
-                    <li class="txtHeader3">Consultoria Especializada</li>
-                    <li class="txtHeader3">Especialista en proyectos de telecomunicacion</li>
-                    <li class="txtHeader3">Obras Electromagneticas</li>
-                    <li class="txtHeader3">Torres Autosoportadas</li>
+                    <li class="txtHeader4">Planificación de proyectos</li>
+                    <li class="txtHeader4">Diseño Industrial, Arquitectónico y Especialidades</li>
+                    <li class="txtHeader4">Construcción de obras civiles , Estructuras metálicas, Remodelación y Ampliciones.</li>
+                    <li class="txtHeader4">Servicios Generales. Mantnimiento de equipos industriales, reparación de muros, limpieza.</li>
+                    <li class="txtHeader4">Consultoria Especializada</li>
+                    <li class="txtHeader4">Especialista en proyectos de telecomunicacion</li>
+                    <li class="txtHeader4">Obras Electromagneticas</li>
+                    <li class="txtHeader4">Torres Autosoportadas</li>
                 </ul>
             </div>
         </div>
